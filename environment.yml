@@ -1,4 +1,4 @@
-name: reinvent-gdb13
+name: reinvent-gdb13-cjw
 channels:
   - pytorch
   - defaults
